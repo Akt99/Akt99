@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Arnab Kumar Tripathy
+- Aspiring Python Developer.
+- JAVA/Python
 
 - 📫 my mail: arnabkumartripathy@gmail.com
 
