@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arnab Kumar Tripathy
 - Aspiring Python Developer.
-- JAVA/Python
+- JAVA/Python/SQL/TypeScript
 
 - 📫 my mail: arnabkumartripathy@gmail.com
 
