@@ -7,7 +7,7 @@
 **- JAVA/Python/SQL/TypeScript**
 
 
-**Computer Science| Fitness**
+**Computer Science 💻⚙️ | Fitness 🏋️‍♀️**
 
 
 **- 📫 my mail: arnabkumartripathy@gmail.com arnabtripathy96@gmail.com**
