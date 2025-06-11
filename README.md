@@ -1,7 +1,15 @@
 **- 👋 Hi, I’m Arnab Kumar Tripathy**
+
+
 **- Aspiring Software Developer.**
+
+
 **- JAVA/Python/SQL/TypeScript**
+
+
 **Computer Science| Fitness**
+
+
 **- 📫 my mail: arnabkumartripathy@gmail.com arnabtripathy96@gmail.com**
 
 
