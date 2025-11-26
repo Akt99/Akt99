@@ -1,16 +1,58 @@
-**- 👋 Hi, I’m Arnab Kumar Tripathy**
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/54/e3/d0/54e3d0c0437a1204a1eb84405e428346.jpg" alt="Banner"/>
+</p>
+
+<h1 align="center">👋 Hey there! I'm Arnab Kumar Tripathy</h1>
+
+<p align="center">
+  🚀 Aspiring <strong>Software Developer</strong> | 💻 Problem Solver | 🔥 Tech Enthusiast
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <!-- JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<!-- React -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<!-- Angular -->
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
+<!-- Three.js -->
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+
+<!-- Chakra UI -->
+<img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/>
+
+</p>
+
+---
 
 
-**- Aspiring Software Developer.**
 
+### 📫 Connect with Me
 
-**- JAVA/Python/SQL/TypeScript**
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
+📧 **arnabkumartripathy@gmail.com**  
+📧 **arnabtripathy96@gmail.com**
 
-**Computer Science 💻⚙️ | Fitness 🏋️‍♀️**
+---
 
-
-**- 📫 my mail: arnabkumartripathy@gmail.com arnabtripathy96@gmail.com**
+✨ *Always learning. Always building. Let's create something amazing together!* 🚀
 
 
 
