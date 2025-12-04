@@ -26,9 +26,12 @@
 ### 📫 Connect with Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arnab-kumar-tripathy-087908190/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+
+[![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&animationDuration=2.5&size=40)](https://www.linkedin.com/in/arnab-kumar-tripathy-087908190/)
+[![Instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&animation=shake&animationDuration=2.0&size=40)](https://instagram.com/or__know)
+
+  
 </p>
 
 📧 **arnabkumartripathy@gmail.com**  
