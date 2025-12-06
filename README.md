@@ -26,7 +26,9 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=angular&animation=pulse&animationDuration=2.0&size=46"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=flask&animation=tada&animationDuration=2.2&size=46"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&animation=heartbeat&animationDuration=2.6&size=46"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" width="46px" height="46px"/>
+
+
+
 
 
 
