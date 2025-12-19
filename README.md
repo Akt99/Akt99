@@ -1,7 +1,13 @@
 <!-- Profile Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/54/e3/d0/54e3d0c0437a1204a1eb84405e428346.jpg" alt="Banner"/>
+  <img
+    src="https://raw.githubusercontent.com/Akt99/assets/main/avatarakt16x9.png"
+    alt="Profile Banner"
+    width="100%"
+  />
 </p>
+
 
 <h1 align="center">👋 Hey there! I'm Arnab Kumar Tripathy</h1>
 
