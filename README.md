@@ -9,7 +9,7 @@
 </p>
 
 
-<h1 align="center">👋 Hey there! I'm Arnab Kumar Tripathy</h1>
+<h1 align="center">Namaste 🙏 ! I'm Arnab Kumar Tripathy </h1>
 
 <p align="center">
   🚀 Aspiring <strong>Software Developer</strong> | 💻 Problem Solver | 🔥 Tech Enthusiast
@@ -67,7 +67,9 @@
 
 ---
 
-✨ *Always learning. Always building. Let's create something amazing together!* 🚀
+ *Ain’t nobody getting something out of a code-fight </br>
+Guard the code like a knight  ⚔️</br>
+clean, secure, airtight* 🚀
 
 
 
