@@ -58,6 +58,7 @@
 
 [![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&animationDuration=2.5&size=40)](https://www.linkedin.com/in/arnab-kumar-tripathy-087908190/)
 [![Instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&animation=shake&animationDuration=2.0&size=40)](https://instagram.com/or__know)
+[![X](https://www.readmecodegen.com/api/social-icon?name=x&theme=dark&animation=pulse&animationDuration=2.2&size=40)](https://x.com/ArnabTripa78675)
 
   
 </p>
