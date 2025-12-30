@@ -2,7 +2,7 @@
 <!-- Profile Banner -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Akt99/assets/main/avatarakt16x9.png"
+    src="https://raw.githubusercontent.com/Akt99/assets/main/ChatGPT Image Dec 29, 2025, 10_34_49 PM.png"
     alt="Profile Banner"
     width="100%"
   />
