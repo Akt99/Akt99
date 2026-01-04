@@ -9,7 +9,17 @@
 </p>
 
 
-<h1 align="center">Namaste 🙏 ! I'm Arnab Kumar Tripathy </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=800&lines=Namaste+%F0%9F%99%8F+!+I'm+Arnab+Kumar+Tripathy" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
+
+
 
 <p align="center">
   🚀 Aspiring <strong>Software Developer</strong> | 💻 Problem Solver | 🔥 Tech Enthusiast
