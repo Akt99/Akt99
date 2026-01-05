@@ -22,8 +22,9 @@
 
 
 <p align="center">
-  🚀 Aspiring <strong>Software Developer</strong> | 💻 Problem Solver | 🔥 Tech Enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=🚀%20Aspiring%20Software%20Developer%20%7C%20💻%20Problem%20Solver%20%7C%20🔥%20Tech%20Enthusiast&fontSize=18&fontAlignY=55" />
 </p>
+
 
 ---
 
