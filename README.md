@@ -19,11 +19,10 @@
 
 
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=60&text=🚀%20Aspiring%20Software%20Developer%20%7C%20💻%20Problem%20Solver%20%7C%20🔥%20Tech%20Enthusiast&fontSize=18&fontAlignY=55" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80%20Aspiring+Software+Developer+%7C+%F0%9F%92%BB%20Problem+Solver+%7C+%F0%9F%94%A5%20Tech+Enthusiast" />
 </p>
+
 
 
 ---
