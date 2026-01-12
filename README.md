@@ -34,7 +34,7 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=python&animation=tada&animationDuration=2.2&size=40&shape=square"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=java&animation=pulse&animationDuration=2.0&size=40&shape=square"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&animation=wiggle&animationDuration=2.4&size=40&shape=square"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=glow&animationDuration=2.3&size=40&shape=square"/>
+  
 </p>
 <h3 align="left"> </> 🏛 Frameworks & Libraries: </h3>
 <p align="left">
@@ -56,6 +56,7 @@
 <p align="left">
   <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&animation=glow&animationDuration=2.3&size=46"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=docker&animation=bounce&animationDuration=2.0&size=46"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&animation=glow&animationDuration=2.3&size=40&shape=square"/>
 </p>
 
 
