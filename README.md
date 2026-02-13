@@ -26,6 +26,11 @@
 
 
 ---
+<p align="center">
+  <a href="https://aktpf.vercel.app/#/home" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 <h2 align="left">💻 Tech Stack:</h2>
 <p>
